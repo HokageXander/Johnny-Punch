@@ -1,0 +1,2 @@
+c:\users\snabel\documents\visual studio 2013\Projects\WorldClock\Johnny_Punch\Johnny_Punch\Johnny_PunchContent\obj\x86\Debug\Johnny_PunchContent.contentprojResolveAssemblyReference.cache
+C:\Users\Oliver\Desktop\Johnny_Punch\Johnny_Punch\Johnny_PunchContent\obj\x86\Debug\Johnny_PunchContent.contentprojResolveAssemblyReference.cache

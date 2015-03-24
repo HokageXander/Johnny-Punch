@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Johnny_Punch.Enemy" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Enemy_manager" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Enemy\Enemy_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Audio_manager" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Audio_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Game_manager" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAACgAAAAIAEAAAAAAAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Game\Game_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Game_object" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIAAEIAAABAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Game_object.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Texture_manager" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\Texture_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Game1" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAgAAAwAAAAAAAAAAAAAAAAgAAAAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Item" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Item_manager" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item\Item_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Level_manager" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Level\Level_manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Background" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Other\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Camera" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEQAAAAAAAAAABAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Other\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Particle" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAggAgAAAAAAABAAAAAAAAAEIAgAAEAAQ=</HashCode>
+      <FileName>Effects\Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Particle_engine" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgEAAAgAAAAgBAAAAAAAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Effects\Particle_engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Player" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Johnny_Punch.Program" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
