@@ -15,3 +15,12 @@ C:\Users\Oliver\Desktop\Johnny_Punch\Johnny_Punch\Johnny_Punch\obj\x86\Debug\Joh
 C:\Users\Oliver\Desktop\Johnny_Punch\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Content\Images\DragonDude.xnb
 C:\Users\Oliver\Desktop\Johnny_Punch\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Content\Images\tinytim.xnb
 C:\Users\Oliver\Desktop\Johnny_Punch\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Content\Images\DragonDude.xnb
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Content\Images\tinytim.xnb
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Content\Images\background.xnb
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Johnny_Punch.exe
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\bin\x86\Debug\Johnny_Punch.pdb
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\obj\x86\Debug\Johnny_Punch.csprojResolveAssemblyReference.cache
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\obj\x86\Debug\Johnny_Punch.exe
+C:\Users\ZenBook\Desktop\Johnny-Punch\Johnny_Punch1\Johnny_Punch\Johnny_Punch\obj\x86\Debug\Johnny_Punch.pdb
