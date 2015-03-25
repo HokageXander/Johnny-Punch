@@ -1,5 +1,6 @@
 # Johnny-Punch
 
+
 Hi guys! go here and Download gitbash http://git-scm.com/downloads to your
 laptopsss. Det är en bra början.
 
@@ -13,7 +14,7 @@ Viktiga commandon: :vim <textfil>
 		   :git log
 		   :git push 
 
-	   
+	   DO NOT GO GENTLY INTO THE NIGHT!
 
 
 
